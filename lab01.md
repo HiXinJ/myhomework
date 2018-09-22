@@ -38,6 +38,7 @@ void preorder(Tree T)
 1. 访问右子树
 
 ![](https://github.com/HiXinJ/myhomework/blob/gh-pages/images/TreeTraversal.png?raw=true)  
+
 遍历次序：( 5 **8** 1 2 ) **7** ( **4** 0 )   
 
 代码如下：
@@ -62,6 +63,7 @@ void inorder(Tree T)
 
 
 ![](https://github.com/HiXinJ/myhomework/blob/gh-pages/images/TreeTraversal.png?raw=true)  
+
 遍历次序：( 5 2 1 **8** ) ( 0 **4** ) **7**  
 
 代码如下：
