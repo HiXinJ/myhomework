@@ -15,7 +15,8 @@ title: 二叉树的遍历
     <li>访问右子树
 </ol>
 
-![](images/TreeTraversal.png)  
+![](https://github.com/HiXinJ/myhomework/blob/gh-pages/images/TreeTraversal.png?raw=true)  
+
 遍历次序：**7** ( **8** 5 1 2 ) ( **4** 0 )
 
 代码如下：
@@ -39,7 +40,7 @@ void preorder(Tree T)
     <li>访问右子树
 </ol>
 
-![](images/TreeTraversal.png)  
+![](https://github.com/HiXinJ/myhomework/blob/gh-pages/images/TreeTraversal.png?raw=true)  
 遍历次序：( 5 **8** 1 2 ) **7** ( **4** 0 )   
 
 代码如下：
@@ -63,7 +64,7 @@ void inorder(Tree T)
     <li>访问节根点
 </ol>
 
-![](images/TreeTraversal.png)  
+![](https://github.com/HiXinJ/myhomework/blob/gh-pages/images/TreeTraversal.png?raw=true)  
 遍历次序：( 5 2 1 **8** ) ( 0 **4** ) **7**  
 
 代码如下：
