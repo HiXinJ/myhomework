@@ -64,6 +64,8 @@ void inorder(Tree T)
 </ol>
 
 ![](images/TreeTraversal.png)  
+遍历次序：( 5 2 1 **8** ) ( 0 **4** ) **7**  
+代码如下：
 ```c++
 void postorder(Tree T)
 {
@@ -75,7 +77,7 @@ void postorder(Tree T)
 }
 ```
 
-遍历次序：( 5 2 1 **8** ) ( 0 **4** ) **7**
+
 
 ***
 
