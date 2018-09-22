@@ -3,7 +3,7 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
+`a`
 [Link to another page](another-page).
 
 There should be whitespace between paragraphs.
@@ -48,7 +48,7 @@ end
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
-
+4.  ee
 ###### [](#header-6)Header 6
 
 | head1        | head two          | three |
@@ -60,7 +60,7 @@ end
 
 ### There's a horizontal rule below this.
 
-* * *
+***
 
 ### Here is an unordered list:
 
