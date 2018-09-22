@@ -12,12 +12,11 @@ title: 二叉树的遍历
 
  <li>访问根节点
  <li>访问左子树
- <li>访问右子树
+ <li>访问右子树  
 
+![](https://github.com/HiXinJ/myhomework/blob/gh-pages/images/TreeTraversal.png?raw=true)    
 
-![](https://github.com/HiXinJ/myhomework/blob/gh-pages/images/TreeTraversal.png?raw=true)  
-
-遍历次序：**7** ( **8** 5 1 2 ) ( **4** 0 )
+遍历次序：**7** ( **8** 5 1 2 ) ( **4** 0 )  
 
 代码如下：
 ```c++
