@@ -34,7 +34,7 @@ void preorder(Tree T)
 ## 2、中序遍历
 **`遍历过程：`**
 1. 访问左子树
-1. 访问节根点
+1. 访问根节点
 1. 访问右子树
 
 ![](https://github.com/HiXinJ/myhomework/blob/gh-pages/images/TreeTraversal.png?raw=true)  
@@ -59,7 +59,7 @@ void inorder(Tree T)
 
 1. 访问左子树
 1. 访问右子树
-1. 访问节根点
+1. 访问根节点
 
 
 ![](https://github.com/HiXinJ/myhomework/blob/gh-pages/images/TreeTraversal.png?raw=true)  
