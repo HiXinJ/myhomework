@@ -17,6 +17,7 @@ title: 二叉树的遍历
 
 ![](https://github.com/HiXinJ/myhomework/blob/gh-pages/images/TreeTraversal.png?raw=true)    
 </div>
+
 遍历次序：**7** ( **8** 5 1 2 ) ( **4** 0 )  
 
 代码如下：
