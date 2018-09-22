@@ -14,8 +14,7 @@ title: 二叉树的遍历
  1. 访问左子树
  1. 访问右子树  
 
-
-
+![](https://github.com/HiXinJ/myhomework/blob/gh-pages/images/TreeTraversal.png?raw=true)  
 
 遍历次序：**7** ( **8** 5 1 2 ) ( **4** 0 )  
 
@@ -34,11 +33,9 @@ void preorder(Tree T)
 
 ## 2、中序遍历
 **`遍历过程：`**
-<ol>
-    <li>访问左子树
-    <li>访问节根点
-    <li>访问右子树
-</ol>
+1. 访问左子树
+1. 访问节根点
+1. 访问右子树
 
 ![](https://github.com/HiXinJ/myhomework/blob/gh-pages/images/TreeTraversal.png?raw=true)  
 遍历次序：( 5 **8** 1 2 ) **7** ( **4** 0 )   
@@ -58,11 +55,11 @@ void inorder(Tree T)
 
 ## 3、后序遍历
 **`遍历过程`**
-<ol>
-    <li>访问左子树
-    <li>访问右子树
-    <li>访问节根点
-</ol>
+
+1. 访问左子树
+1. 访问右子树
+1. 访问节根点
+
 
 ![](https://github.com/HiXinJ/myhomework/blob/gh-pages/images/TreeTraversal.png?raw=true)  
 遍历次序：( 5 2 1 **8** ) ( 0 **4** ) **7**  
