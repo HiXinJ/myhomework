@@ -7,7 +7,7 @@
 3. [03-](hw03)
 4. [04-](hw04)
 5. [05-Gates and Circuits](hw05)
-
+6. [06-Computing Components](hw06)
 ## 实验与实践
 
 1. [01-我的 Markdown 博客](lab01)
