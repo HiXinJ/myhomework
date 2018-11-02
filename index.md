@@ -8,6 +8,8 @@
 4. [04-](hw04)
 5. [05-Gates and Circuits](hw05)
 6. [06-Computing Components](hw06)
+7. [07-Low level programming languages](hw07)
+
 
 ## 实验与实践
 
