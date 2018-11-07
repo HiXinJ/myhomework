@@ -48,16 +48,16 @@ Construct 2是一款为开发2D游戏而设计软件。它不需要编码，任�
 ### **`游戏对象`**
 
 player  
-![](images/lab2/player.png)  
+![player ](images/lab2/player.png)  
 
 monster  
-![](images/lab2/monster.png)  
+![monste](images/lab2/monster.png)  
 
 bullet  
-![](images/lab2/bullet.png)  
+![bullet  ](images/lab2/bullet.png)  
 
 explode  
-![](images/lab2/explode.png)
+![explode ](images/lab2/explode.png)
 
 依次插入以上对象，方法如下：
 1. 双击插入新对象  
