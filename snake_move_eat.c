@@ -1,6 +1,7 @@
 //
 //  snake_move_eat.c
-//
+//  Created by XinJ Wang, 17309084
+
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
